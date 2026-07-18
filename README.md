@@ -55,7 +55,7 @@ Siga os passos abaixo para preparar o seu ambiente e executar as animações loc
 1. **Clone o repositório:**
 
 ```bash
-git clone [https://github.com/jeffthedeveloper/python-4-chd.git](https://github.com/jeffthedeveloper/python-4-chd.git)
+git clone https://github.com/jeffthedeveloper/python-4-chd.git
 
 ```
 
